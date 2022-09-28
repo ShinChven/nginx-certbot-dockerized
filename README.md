@@ -2,6 +2,7 @@
 
 Deploy nginx and certbot in container
 
-![Docker Image Version (latest by date)](https://img.shields.io/docker/v/shinchven/nginx-certbot?label=nginx-certbot&style=for-the-badge)
+<a href='https://hub.docker.com/repository/docker/shinchven/nginx-certbot
+'><img src='https://img.shields.io/docker/v/shinchven/nginx-certbot?label=nginx-certbot&style=for-the-badge' alt='Docker Image Version (latest by date)' /></a>
 
-https://hub.docker.com/repository/docker/shinchven/nginx-certbot
+
